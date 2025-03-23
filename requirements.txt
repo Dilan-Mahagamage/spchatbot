@@ -7,3 +7,4 @@ qdrant_client
 flask
 flask-restful
 flasgger
+gunicorn==20.1.0
